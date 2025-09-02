@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(38, 155, 143);
+}
+
+button{
+    color: rgb(38, 155, 143);
+    background-color: rgb(38, 155, 143);
+    text-decoration-color: rgb(38, 155, 143);
+    fill: aqua ;
+}
